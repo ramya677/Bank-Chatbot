@@ -673,9 +673,9 @@ def main():
     chatbot = init_chatbot()
     
     # Twilio Configuration
-    account_sid = 'AC91f71e48ddd9dfb6dc2c9abfb2a47804'
-    auth_token = '064fcab1c1e67d2c62f9ace9714733d7'
-    verify_sid = 'VAc6db2bea2f4d8cc3c4406f516ee86304'
+    account_sid = 'ACd9362c3efc749a5faa8e14bcf4b47e82'
+    auth_token = '0121f8df56012108bbd58f08a23861f4'
+    verify_sid = 'VAd99b637afcd9fe27808d4d229b992779'
     client = Client(account_sid, auth_token)
     
     # Initialize session state
